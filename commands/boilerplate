@@ -1,0 +1,9 @@
+const Discord = require('discord.js');
+const fetch = require('node-fetch');
+module.exports = {
+  name: 'name',
+  description: 'description',
+  execute(msg, command, udata){
+    //code goes here
+  },
+};
