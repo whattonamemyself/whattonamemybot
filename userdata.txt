@@ -1,1 +1,0 @@
-{"500494514159484948":{"subLink":"https://www.reddit.com/r/brawlstars/new.json?t=all&limit=50","subredditName":"brawlstars","redditPage":1,"reddittemp":"new "}}
